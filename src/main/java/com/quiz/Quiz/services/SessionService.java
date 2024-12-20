@@ -276,7 +276,7 @@ public class SessionService {
 
             //and then set status to COMPLETED
             session.setQuizStatus(QuizStatus.COMPLETED);
-get
+
             //to apply this changes save session again
             sessionRepository.save(session);
 
