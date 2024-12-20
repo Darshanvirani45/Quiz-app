@@ -39,7 +39,7 @@ public class QuizApplication implements CommandLineRunner {
 		User user=new User("Rohit","rohit@gmail.com","rohit@45");
 		userRepository.save(user);
 
-		List<QuizCategory> quizCategories=List.of(new QuizCategory("Java"),new QuizCategory("Python"),new QuizCategory("Os"),new QuizCategory("Cpp"),new QuizCategory("Basic Of Computer"));
+		List<QuizCategory> quizCategories=List.of(new QuizCategory("Java"),new QuizCategory("Python"),new QuizCategory("Os"));
 		quizCategoryRepository.saveAll(quizCategories);
 
 		String[] category1=new String[]{"What is the size of an int in Java?","What does JVM stand for?",
