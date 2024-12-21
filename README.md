@@ -18,6 +18,13 @@ This project is a Quiz Application built using Spring Boot, which provides API e
 3)Postman
 4)Spring boot
 
+#Access the H2 Database Console:
+-------------------------------------------------------------------------------------------------------------------------------
+1) URL: http://localhost:8080/h2-console
+2) JDBC URL: jdbc:h2:mem:testdb
+3) Username: sa
+4) Password: (leave blank)
+
 #Project Structure:
 -----------------------------------------------------------------------------------------------------------------------------
 1)Controllers  : handles http request of applications.
