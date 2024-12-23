@@ -27,10 +27,10 @@ This project is a Quiz Application built using Spring Boot, which provides API e
 
 #Project Structure:
 -----------------------------------------------------------------------------------------------------------------------------
-1)Controllers  : handles http request of applications.
-2)Services     : carry on all the bussiness logic og application.
-3)Dao          : data access object. this is layer which intrect with Database.
-4)Entities     : represent data models or DataBase tables.
+1)Controllers  : handles http request of applications.  
+2)Services     : carry on all the bussiness logic og application.  
+3)Dao          : data access object. this is layer which intrect with Database.  
+4)Entities     : represent data models or DataBase tables.  
 
 #Technologies Use:
 ------------------------------------------------------------------------------------------------------------------------------
