@@ -13,10 +13,10 @@ This project is a Quiz Application built using Spring Boot, which provides API e
 #How to run:
 ------------------------------------------------------------------------------------------------------------------------------
 ##to run the quiz there some Prerequisites:
-1)JDK 11 or higher
-2)Maven
-3)Postman
-4)Spring boot
+1)JDK 11 or higher  
+2)Maven  
+3)Postman  
+4)Spring boot  
 
 #Access the H2 Database Console:
 -------------------------------------------------------------------------------------------------------------------------------
