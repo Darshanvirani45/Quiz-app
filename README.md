@@ -37,7 +37,7 @@ This project is a Quiz Application built using Spring Boot, which provides API e
 1)Maven
 2)Spring boot
 3)H2 db
-4>Spring Data Jpa
+4)Spring Data Jpa
 
 #Key Features:
 -------------------------------------------------------------------------------------------------------------------------------
